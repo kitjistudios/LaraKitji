@@ -706,7 +706,7 @@
 
                     <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Phone: +246 254-5106</p>
 
-                    <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: mail@mail.com</p>
+                    <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: smarshall@kitjistudios.com</p>
 
                     <br>
 
