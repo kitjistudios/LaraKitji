@@ -20,81 +20,49 @@
 
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
+        <link rel="stylesheet" href="{{ URL::asset('css/afternoon.css') }}" />
+
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="  crossorigin="anonymous"></script>
 
-        <style>
 
-            body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
-
-            body, html {
-
-                height: 100%;
-
-                line-height: 1.8;
-
-            }
-
-            /* Full height image header */
-
-            .bgimg-1 {
-
-                background-position: center;
-
-                background-size: auto;
-
-                background-repeat: no-repeat;
-
-                background-image: url({{asset('/IMAG1361.jpg')}});
-
-            min-height: 100%;
-
-            }
-
-            .w3-bar .w3-button {
-
-                padding: 16px;
-
-            }
-
-        </style>
 
         <script type="text/javascript">
 
-            $(document).ready(function () {
+$(document).ready(function () {
 
-                $('#more').hide();
+    $('#more').hide();
 
-                $('#evenmore').hide();
+    $('#evenmore').hide();
 
-                $("#link").click(function () {
+    $("#link").click(function () {
 
-                    //alert("The paragraph was clicked.");
+        //alert("The paragraph was clicked.");
 
-                    //$('#more').fadeToggle(); 
+        //$('#more').fadeToggle(); 
 
-                    //$('#more').fadeToggle('slow');
+        //$('#more').fadeToggle('slow');
 
-                    $('#more').fadeToggle(3000);
+        $('#more').fadeToggle(3000);
 
-                });
+    });
 
-                $("#link2").click(function () {
+    $("#link2").click(function () {
 
-                    //alert("The paragraph was clicked.");
+        //alert("The paragraph was clicked.");
 
-                    //$('#more').fadeToggle(); 
+        //$('#more').fadeToggle(); 
 
-                    //$('#more').fadeToggle('slow');
+        //$('#more').fadeToggle('slow');
 
-                    $('#evenmore').fadeToggle(3000);
+        $('#evenmore').fadeToggle(3000);
 
-                });
-
-
+    });
 
 
 
-            });
+
+
+});
 
 
 
@@ -344,7 +312,7 @@
 
                 <p> 
 
-                   The spider and its attributes are the perfect personification of the major aspects of computing, which have all been integrated into the Kitji logo.
+                    The spider and its attributes are the perfect personification of the major aspects of computing, which have all been integrated into the Kitji logo.
 
                 </p>
 
@@ -583,7 +551,9 @@
                 </div>
 
             </div>
-
+            @if($theme == 'Evening')
+            <p> this is not home </p>
+            @endif
             <p class="w3-center w3-large">Our Kitji custom apps</p>
 
 
