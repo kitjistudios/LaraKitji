@@ -20,72 +20,54 @@
 
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-        <link rel="stylesheet" href="{{ URL::asset('css/afternoon.css') }}" />
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="  crossorigin="anonymous"></script>
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="  crossorigin="anonymous"></script>
 
+        @if($theme == 'Morning')
+        <link rel="stylesheet" type="text/css" href="{{ URL::asset('css/morning.css') }}" >
+        <script type="text/javascript" src="{{ URL::asset('js/morning.js') }}"></script>
+        <style>
+            .bgimg-1 {
 
+                background-image: url({{asset('/IMAG1361.jpg')}});
 
-        <script type="text/javascript">
+            }
+        </style>
+        @endif
+        @if($theme == 'Afternoon')
+        <link rel="stylesheet" href="{{ URL::asset('css/afternoon.css') }}" />
+        <script type="text/javascript" src="{{ URL::asset('js/afternoon.js') }}"></script>
+        <style>
+            .bgimg-1 {
 
-$(document).ready(function () {
+                background-image: url({{asset('/IMAG1372.jpg')}});
 
-    $('#more').hide();
+            }
+        </style>
+        @endif 
+        @if($theme == 'Evening')
+        <link rel="stylesheet" href="{{ URL::asset('css/evening.css') }}" />
+        <script type="text/javascript" src="{{ URL::asset('js/evening.js') }}"></script>
+        <style>
+            .bgimg-1 {
 
-    $('#evenmore').hide();
+                background-image: url({{asset('/IMAG1367.jpg')}});
 
-    $("#link").click(function () {
-
-        //alert("The paragraph was clicked.");
-
-        //$('#more').fadeToggle(); 
-
-        //$('#more').fadeToggle('slow');
-
-        $('#more').fadeToggle(3000);
-
-    });
-
-    $("#link2").click(function () {
-
-        //alert("The paragraph was clicked.");
-
-        //$('#more').fadeToggle(); 
-
-        //$('#more').fadeToggle('slow');
-
-        $('#evenmore').fadeToggle(3000);
-
-    });
-
-
-
-
-
-});
-
-
-
-        </script>
-
-
+            }
+        </style>
+        @endif
 
         <script src="https://maps.googleapis.com/maps-api-v3/api/js/32/6/common.js" type="text/javascript" charset="UTF-8">
-
-
-
         </script>
 
         <script src="https://maps.googleapis.com/maps-api-v3/api/js/32/6/map.js" type="text/javascript" charset="UTF-8">
-
         </script>
 
         <script src="https://maps.googleapis.com/maps-api-v3/api/js/32/6/util.js" type="text/javascript" charset="UTF-8">
-
         </script>
 
         <script src="https://maps.googleapis.com/maps-api-v3/api/js/32/6/marker.js" type="text/javascript" charset="UTF-8">
-
         </script>
 
         <style type="text/css">.gm-style {
@@ -182,13 +164,13 @@ $(document).ready(function () {
 
                 <span class="w3-large w3-hide-large w3-hide-medium">Start something that matters</span><br>-->
 
-                <span class="w3-xxlarge  w3-opacity w3-hover-opacity-off">Save time and money. Kitji Studios will build it for you</span>
+                <!--<span class="w3-button  w3-opacity w3-hover-opacity-off">Save time and money. Kitji Studios will build it for you</span>-->
 
-                <p><a class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off" href="#about">Learn more and start today</a></p>
+                <p><a class="w3-button w3-xlarge w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off" href="#about">Learn more and start today</a></p>
 
             </div> 
 
-            <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
+            <div class="w3-display-bottomleft  w3-text-grey w3-large" style="padding:24px 48px">
 
                 <i class="fa fa-facebook-official w3-hover-white" style="font-size:35px;"></i>
 
@@ -220,7 +202,7 @@ $(document).ready(function () {
 
                 <div class="w3-quarter">
 
-                    <i class="fa fa-laptop w3-margin-bottom w3-jumbo w3-center"></i>
+                    <i class="fa fa-laptop w3-margin-bottom w3-jumbo w3-center" style="font-size:150px;"></i>
 
                     <p class="w3-large">Software Development</p>
 
@@ -456,25 +438,25 @@ $(document).ready(function () {
 
             <div class="w3-quarter">
 
+                <span class="w3-xxlarge">20+</span>
+
+                <br>Projects
+
+            </div>
+
+            <div class="w3-quarter">
+
+                <span class="w3-xxlarge">2+</span>
+
+                <br>Clients
+
+            </div>
+
+            <div class="w3-quarter">
+
                 <span class="w3-xxlarge">10+</span>
 
-                <br>Frameworks
-
-            </div>
-
-            <div class="w3-quarter">
-
-                <span class="w3-xxlarge">89+</span>
-
-                <br>Front End
-
-            </div>
-
-            <div class="w3-quarter">
-
-                <span class="w3-xxlarge">150+</span>
-
-                <br>Back End
+                <br>References
 
             </div>
 
@@ -496,13 +478,14 @@ $(document).ready(function () {
 
                 <div class="w3-col l3 m6">
 
-                    <img class="w3-hover-opacity" style="width:60%" onclick="onClick(this)" alt="Asp . Net" src={{asset('/Asp.Net.jpg')}}>
+                    <img class="w3-hover-opacity" style="width:60%" onclick="onClick(this)" alt="ASP.NET is an open source web framework for building modern web apps and services with .NET. ASP.NET creates websites based on HTML5, CSS, and JavaScript that are simple, fast, and can scale to millions of users" src={{asset('/Asp.Net.jpg')}}>
 
                 </div>
 
                 <div class="w3-col l3 m6">
 
-                    <img class="w3-hover-opacity" style="width:60%" onclick="onClick(this)" alt="PHP" src={{asset('/PHP.jpg')}}>
+                    <img class="w3-hover-opacity" style="width:60%" onclick="onClick(this)" alt="PHP is a popular general-purpose scripting language that is especially suited to web development.
+Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world." src={{asset('/PHP.jpg')}}>
 
                 </div>
 
@@ -551,7 +534,7 @@ $(document).ready(function () {
                 </div>
 
             </div>
-            @if($theme == 'Evening')
+            @if($theme == 'Morning')
             <p> this is not home </p>
             @endif
             <p class="w3-center w3-large">Our Kitji custom apps</p>
@@ -835,11 +818,11 @@ $(document).ready(function () {
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&amp;callback=myMap"></script>
 
         <!--
-
+    
         To use this code on your website, get a free API key from Google.
-
+    
         Read more at: https://www.w3schools.com/graphics/google_maps_basic.asp
-
+    
         -->
 
 

@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/',"FlipboardController@index");
+Route::get('/',"ContentController@index");

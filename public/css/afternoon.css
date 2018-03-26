@@ -14,11 +14,9 @@ body, html {
 
     background-position: center;
 
-    background-size: auto;
+    background-size: 100%;
 
     background-repeat: no-repeat;
-
-    background-image: {{ URL::asset('../../../IMAG1395.jpg') }};
 
     min-height: 100%;
 
