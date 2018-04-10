@@ -59,7 +59,6 @@ class SunDial {
         $morningtime = strtotime("5:30 am");
         $afternoontime = strtotime("12:00 pm");
         $eveningtime = strtotime("4:00 pm");
-        $test = date("h:i a");
 
         if ($this->curtime >= $morningtime && $this->curtime <= $afternoontime) {
 
