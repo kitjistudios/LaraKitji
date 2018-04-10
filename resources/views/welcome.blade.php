@@ -86,7 +86,12 @@
 
         </script>
 
-        <script src="https://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&amp;1m2&amp;1d41.67915712538518&amp;2d-87.94732373095041&amp;2m2&amp;1d42.08330284665104&amp;2d-87.32154971092586&amp;2u12&amp;4sen-US&amp;5e0&amp;6sm%40415000000&amp;7b0&amp;8e0&amp;callback=_xdc_._6jub3t&amp;token=94300" type="text/javascript" charset="UTF-8"></script><script src="https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i12!2i1049!3i1521!1m4!1m3!1i12!2i1049!3i1522!1m4!1m3!1i12!2i1049!3i1523!1m4!1m3!1i12!2i1050!3i1521!1m4!1m3!1i12!2i1051!3i1521!1m4!1m3!1i12!2i1050!3i1522!1m4!1m3!1i12!2i1050!3i1523!1m4!1m3!1i12!2i1051!3i1522!1m4!1m3!1i12!2i1051!3i1523!1m4!1m3!1i12!2i1052!3i1521!1m4!1m3!1i12!2i1052!3i1522!1m4!1m3!1i12!2i1052!3i1523!2m3!1e0!2sm!3i415114548!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e3!12m1!5b1!23i1301875&amp;callback=_xdc_._o8ta1j&amp;token=58073" type="text/javascript" charset="UTF-8"></script><script src="https://maps.googleapis.com/maps-api-v3/api/js/32/6/controls.js" type="text/javascript" charset="UTF-8"></script><script src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.w3schools.com%2Fw3css%2Ftryw3css_templates_startup.htm&amp;4sAIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&amp;callback=_xdc_._ukll70&amp;token=91395" type="text/javascript" charset="UTF-8"></script><script src="https://maps.googleapis.com/maps-api-v3/api/js/32/6/stats.js" type="text/javascript" charset="UTF-8"></script><script src="https://maps.googleapis.com/maps/api/js/QuotaService.RecordEvent?1shttps%3A%2F%2Fwww.w3schools.com%2Fw3css%2Ftryw3css_templates_startup.htm&amp;3sAIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&amp;7szlhsuq&amp;10e1&amp;callback=_xdc_._hu0qmj&amp;token=89834" type="text/javascript" charset="UTF-8"></script>
+        <script src="https://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&amp;1m2&amp;1d41.67915712538518&amp;2d-87.94732373095041&amp;2m2&amp;1d42.08330284665104&amp;2d-87.32154971092586&amp;2u12&amp;4sen-US&amp;5e0&amp;6sm%40415000000&amp;7b0&amp;8e0&amp;callback=_xdc_._6jub3t&amp;token=94300" type="text/javascript" charset="UTF-8"></script>
+        <script src="https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i12!2i1049!3i1521!1m4!1m3!1i12!2i1049!3i1522!1m4!1m3!1i12!2i1049!3i1523!1m4!1m3!1i12!2i1050!3i1521!1m4!1m3!1i12!2i1051!3i1521!1m4!1m3!1i12!2i1050!3i1522!1m4!1m3!1i12!2i1050!3i1523!1m4!1m3!1i12!2i1051!3i1522!1m4!1m3!1i12!2i1051!3i1523!1m4!1m3!1i12!2i1052!3i1521!1m4!1m3!1i12!2i1052!3i1522!1m4!1m3!1i12!2i1052!3i1523!2m3!1e0!2sm!3i415114548!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e3!12m1!5b1!23i1301875&amp;callback=_xdc_._o8ta1j&amp;token=58073" type="text/javascript" charset="UTF-8"></script>
+        <script src="https://maps.googleapis.com/maps-api-v3/api/js/32/6/controls.js" type="text/javascript" charset="UTF-8"></script>
+        <script src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.w3schools.com%2Fw3css%2Ftryw3css_templates_startup.htm&amp;4sAIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&amp;callback=_xdc_._ukll70&amp;token=91395" type="text/javascript" charset="UTF-8"></script>
+        <script src="https://maps.googleapis.com/maps-api-v3/api/js/32/6/stats.js" type="text/javascript" charset="UTF-8"></script>
+        <script src="https://maps.googleapis.com/maps/api/js/QuotaService.RecordEvent?1shttps%3A%2F%2Fwww.w3schools.com%2Fw3css%2Ftryw3css_templates_startup.htm&amp;3sAIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&amp;7szlhsuq&amp;10e1&amp;callback=_xdc_._hu0qmj&amp;token=89834" type="text/javascript" charset="UTF-8"></script>
 
     </head>
 
@@ -194,9 +199,9 @@
 
         <div class="w3-container" id="about" style="padding:128px 16px">
 
-            <h3 class="w3-center">ABOUT KITJI STUDIOS</h3>
+            <h1 class="w3-center">ABOUT KITJI STUDIOS</h1>
 
-            <p class="w3-center w3-large">Key features of our company</p>
+            <p class="w3-center w3-xlarge">Our core competencies</p>
 
             <div class="w3-row-padding w3-center" style="margin-top:64px">
 
@@ -206,7 +211,7 @@
 
                     <p class="w3-large">Software Development</p>
 
-                    <p>Our team is dedicated to engineering the best custom software solutions for your modern business needs. </p>
+                    <p>A team dedicated to engineering the best custom software solutions for your modern business needs. We engineer software that garners smiles. </p>
 
                 </div>
 
@@ -216,7 +221,7 @@
 
                     <p class="w3-large">Business Analysis</p>
 
-                    <p>We are passionate about improving your business processes. Our team will deliver an effective and efficient solution to improve your business process</p>
+                    <p>We are passionate about improving your business processes. Effective and efficient solutions to improve your business process</p>
 
                 </div>
 
@@ -226,7 +231,7 @@
 
                     <p class="w3-large">Reverse Engineering</p>
 
-                    <p>See something you like. Is that software suite your want too costly. Our team will engineer from the ground up and deliver a unique product</p>
+                    <p>Software solution too costly? We rapidly engineer your solution from the ground up to deliver a unique product. Now that's RAD</p>
 
                 </div>
 
@@ -234,21 +239,21 @@
 
                     <i class="fa fa-cogs w3-margin-bottom w3-jumbo"></i>
 
-                    <p class="w3-large">Custom Software </p>
+                    <p class="w3-large">Custom Software</p>
 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    <p>Engineering custom software is our passion. Software solution tailored to your business needs engineered to be fast and reliable.</p>
 
                 </div>
 
             </div>
 
-            <center>
+            <div class="w3-center">
 
                 <p>More about Kitji Studios</p>
 
                 <a id="link">Read More >></a>
 
-            </center>
+            </div>
 
             <div ><br></div>
 
@@ -274,13 +279,11 @@
 
                 </p>
 
-                <center>
-
+                <div class="w3-center">
                     <p>Even more about Kitji Studios</p>
 
-                    <a id="link2">Read even More >></a>`
-
-                </center>
+                    <a id="link2">Read Even More >></a>`
+                </div>
 
             </div>
 
@@ -306,7 +309,23 @@
 
             </div>
 
+            <div class="w3-center">
 
+
+                <h1 ><i class="fa fa-eye w3-margin-bottom w3-jumbo"></i>  Our Vision</h1> 
+                <p>
+                    Community, communication, commerce- We up de tech!!
+                </p>
+
+
+                <h1 > <i class="fa fa-compass w3-margin-bottom w3-jumbo"></i> Our Mission</h1> 
+                <p>
+                    Our drive comes from investing in our communities. People drive our passion and technology has the ability
+                    to transform our everyday lives. We strive to see Barbados at the forefront of technology and technological services in the region.
+
+
+                </p>
+            </div>       
 
         </div>
 
@@ -322,7 +341,7 @@
 
                     <h3>We know design. We engineer excellence</h3>
 
-                    <p>Sturdy, robust, elegant and efficient. We engineer software to meet the needs of your organization. User friendly and sleek interfaces in a modern business environment. </p>
+                    <p>Sturdy, robust, elegant and efficient. We engineer software to meet the needs of your organization. User friendly and sleek interfaces for a modern business environment. </p>
 
                     <p><a class="w3-button w3-black" href="#work"><i class="fa fa-th">&nbsp;</i> View Our Works</a></p>
 
@@ -346,7 +365,7 @@
 
         <div class="w3-container" id="team" style="padding:128px 16px">
 
-            <h3 class="w3-center">THE TEAM</h3>
+            <h1 class="w3-center">THE TEAM</h1>
 
             <p class="w3-center w3-large">Under the umbrella</p>
 
@@ -358,7 +377,7 @@
 
                     <div class="w3-card">
 
-                        <center>
+                        <div class="w3-center">
 
                             <img  alt="Shayne" src={{asset('/Guzman.jpg')}}>  
 
@@ -370,13 +389,11 @@
 
                                 <p class="w3-opacity">Director/Founder Kitji Studios</p>
 
-                                <p>Passionate about software development and technology. Love to learn and create. <a id="link">Read More >></a> </p>
-
-                                <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+                                <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-info-circle"></i>  View Bio</button></p>
 
                             </div>
 
-                        </center>                        
+                        </div>                        
 
 
 
@@ -390,7 +407,7 @@
 
                     <div class="w3-card">
 
-                        <center>
+                        <div class="w3-center">
 
                             <img alt="Freddie" src={{asset('/Fred.jpg')}}>  
 
@@ -402,17 +419,11 @@
 
                                 <p class="w3-opacity">Director Kitji Studios</p>
 
-                                <p>Skilled developer. Apple enthusiast.</p>
-
-                                <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
+                                <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-info-circle"></i>  View Bio</button></p>
 
                             </div>
 
-                        </center>
-
-
-
-
+                        </div>
 
                     </div>
 
@@ -468,9 +479,9 @@
 
         <div class="w3-container" id="work" style="padding:128px 16px">
 
-            <h3 class="w3-center">OUR WORK</h3>
+            <h1 class="w3-center">OUR WORK</h1>
 
-            <p class="w3-center w3-large">Under the hood</p>
+            <p class="w3-center w3-xlarge">Under the hood</p>
 
 
 
@@ -485,7 +496,7 @@
                 <div class="w3-col l3 m6">
 
                     <img class="w3-hover-opacity" style="width:60%" onclick="onClick(this)" alt="PHP is a popular general-purpose scripting language that is especially suited to web development.
-Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world." src={{asset('/PHP.jpg')}}>
+                         Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world." src={{asset('/PHP.jpg')}}>
 
                 </div>
 
@@ -524,9 +535,6 @@ Fast, flexible and pragmatic, PHP powers everything from your blog to the most p
                     <img class="w3-hover-opacity" style="width:40%" onclick="onClick(this)" alt="Javascript" src={{asset('/Javascript.jpg')}}>
 
                 </div>
-
-
-
                 <div class="w3-col l3 m6">
 
                     <img class="w3-hover-opacity" style="width:50%" onclick="onClick(this)" alt="Angular" src={{asset('/AngularJS.jpg')}}>
@@ -534,36 +542,37 @@ Fast, flexible and pragmatic, PHP powers everything from your blog to the most p
                 </div>
 
             </div>
-            @if($theme == 'Morning')
-            <p> this is not home </p>
-            @endif
-            <p class="w3-center w3-large">Our Kitji custom apps</p>
+            <p class="w3-center w3-xlarge">Our in-house apps</p>
 
 
 
-            <div class="w3-row-padding" style="margin-top:64px;margin-left:200px">
+            <div class="w3-row-padding" style="margin-top:64px;margin-left: 60px">
 
-                <div class="w3-col 13 m4">
-
-                    <img class="w3-hover-opacity" style="width:50%" onclick="onClick(this)" alt="Utell 360" src="">
-
+                <div class="w3-col l3 m6">
+                    <img class="w3-hover-opacity" style="width:70%" onclick="onClick(this)" alt="Ailerons" src={{asset('/Ailerons_Logo.png')}}>
+                    <i class="fa fa-trademark"></i>
+                    <p class="w3-large center">Ailerons</p>
                 </div>
 
-                <div class="w3-col 13 m4">
+                <div class="w3-col l3 m6">
+                    <img class="w3-hover-opacity" style="width:80%" onclick="onClick(this)" alt="Utell 360" src={{asset('/Utell360.png')}}>
+                    <i class="fa fa-trademark"></i>
+                    <p class="w3-large center">Ailerons</p>
+                </div>                
 
-                    <img class="w3-hover-opacity" style="width:100%" onclick="onClick(this)" alt="Utell" src="">
-
+                <div class="w3-col l3 m6">
+                    <img class="w3-hover-opacity" style="width:90%" onclick="onClick(this)" alt="Utell" src={{asset('/Utell.jpg')}}>
+                    <i class="fa fa-trademark"></i>
+                    <p class="w3-large center">Utell</p>
                 </div>
 
-                <div class="w3-col 13 m4">
-
-                    <img class="w3-hover-opacity" style="width:100%" onclick="onClick(this)" alt="Bimtractor" src="">
-
+                <div class="w3-col l3 m6">
+                    <img class="w3-hover-opacity" style="width:60%" onclick="onClick(this)" alt="Bimtractor" src={{asset('/bimtractor_logo.jpg')}}>
+                    <i class="fa fa-trademark"></i>
+                    <p class="w3-large center">Bimtractor</p>
                 </div>
 
             </div>
-
-
 
         </div>
 
@@ -663,7 +672,7 @@ Fast, flexible and pragmatic, PHP powers everything from your blog to the most p
 
                     <br>
 
-                    <form action="/action_page.php" target="_blank">
+                    <form  action="mailto:smarshall@kitjistudios.com" method="post" enctype="text/plain">
 
                         <p><input name="Name" class="w3-input w3-border" required="" type="text" placeholder="Name"></p>
 
@@ -723,7 +732,7 @@ Fast, flexible and pragmatic, PHP powers everything from your blog to the most p
 
             </div>
 
-            <p>Powered by <a title="W3.CSS" class="w3-hover-text-green" href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+            <p>Powered by <a title="Kitji Studios" class="w3-hover-text-green" href="https://kitjistudios.azurewebsites.net" target="_blank">w3.css</a></p>
 
         </footer>
 
@@ -737,7 +746,7 @@ Fast, flexible and pragmatic, PHP powers everything from your blog to the most p
 
             {
 
-                myCenter = new google.maps.LatLng(41.878114, -87.629798);
+                myCenter = new google.maps.LatLng(13.051421, -59.512783);
 
                 var mapOptions = {
 
@@ -815,7 +824,7 @@ Fast, flexible and pragmatic, PHP powers everything from your blog to the most p
 
         </script>
 
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&amp;callback=myMap"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXNk5oH9H4RG-y8JfE8FlLlovYa9yHQ2E&amp;callback=myMap"></script>
 
         <!--
     
